@@ -1,7 +1,6 @@
 # 💫 About Me:
-👋 Hi! I'm a 19-year-old Systems Engineering student at UTN, currently halfway through my degree. I'm passionate about data analytics and creating systems that enhance productivity and efficiency. I'm focused on learning and applying skills in software development, data analytics, and technology to build innovative solutions. I'm constantly seeking opportunities to grow and contribute my skills to projects that make a positive impact.
+👋 Hi! I'm a 20-year-old Systems Engineering student at UTN, currently halfway through my degree. I'm passionate about data analytics and creating systems that enhance productivity and efficiency. I'm focused on learning and applying skills in software development, data analytics, and technology to build innovative solutions. I'm constantly seeking opportunities to grow and contribute my skills to projects that make a positive impact.
 - 🌱 I’m currently learning about software development, data processing, and automation.
-- 🛠️ Currently working on a Operating Systems  practical assignment for my degree.
 - 📫 Reach out to me at: litovchenko5108@gmail.com<br>
 
 
